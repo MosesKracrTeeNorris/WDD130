@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@200;400&family=Playfair+Display+SC:ital@1&family=Red+Hat+Display:wght@500&display=swap');
+/*:root {
+    background-color: rgba(32, 32, 210, 0.289); 
+    
+}*/
+#background {
+    height: 725px;
+}
+
+.callout {
+	max-width: 400px;
+	margin: 10px;
+	border: 1px solid rgba(0,0,0,.1);
+	padding: 15px;
+	background-color: #247;
+	color: #fff;
+}
+
+.callout img {
+	float: right;
+	margin: 0 0 10px 15px;
+	border: 1px solid #000;
+	padding: 3px;
+	background-color: #bbb;
+	width: 100px;
+	height: auto;
+	
+}
+
+blockquote {
+	margin: 0;
+}
+
+cite {
+	display: block;
+	border-top: 1px dotted #fff;
+	padding-top: 3px;
+	text-align: right;
+	font-size: smaller;
+}
